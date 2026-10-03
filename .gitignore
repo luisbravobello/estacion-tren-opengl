@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+build/
+dependencias/
+enc_temp_folder/
+*.vcxproj.user
+verificacion/*.log
+verificacion/*.ppm
+verificacion/contacto.png
